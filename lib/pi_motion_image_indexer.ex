@@ -1,0 +1,2 @@
+defmodule PiMotionImageIndexer do
+end
